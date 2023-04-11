@@ -1,0 +1,2 @@
+Username: Seyed Password: 12344321 coins: 0  Highestscore: 0 Herocode: 0 StoreCode: 00000
+Username: Kokomba Password: 12344321 coins: 260 Highestscore: 287 Herocode: 2 StoreCode: 00000 

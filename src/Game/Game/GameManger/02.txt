@@ -1,0 +1,1 @@
+Time: 0 mapNumb: 0 Heart: 0 coins: 0 Score: 0 Hero: 3 HeroX: 0 HeroY: 638 Id: 1060053386061800 partNumb: 1
